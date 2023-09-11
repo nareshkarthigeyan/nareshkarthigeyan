@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nareshkarthigeyan
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning C
+- Familiar with HTML/CSS
 - 💞️ I’m looking to collaborate on Anything... really
 - 📫 How to reach me: nareshkarthigeyan.2005@gmail.com // discord: #toastmalone7 // instagram: @nareshkarthigeyan // twitter: @iamkvnaresh
 
