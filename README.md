@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @nareshkarthigeyan
-- ![Alt text](https://www.codewars.com/users/nareshkarthigeyan/badges/large)
+![Alt text](https://www.codewars.com/users/nareshkarthigeyan/badges/large)
 <img src="ttps://www.codewars.com/users/nareshkarthigeyan/badges/large">
+
+
 - 📫 How to reach me: nareshkarthigeyan.2005@gmail.com // discord: #toastmalone7 // instagram: @nareshkarthigeyan // twitter: @iamkvnaresh
 
 <!---
